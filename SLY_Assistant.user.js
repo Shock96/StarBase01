@@ -36,12 +36,12 @@
     let writeRPCs = customWriteRPCs.concat(saRPCs);
 
 	//Program public keys
-    /*
+    
 	const sageProgramPK = new solanaWeb3.PublicKey('SAGEqqFewepDHH6hMDcmWy7yjHPpyKLDnRXKb3Ki8e6');
 	const profileProgramPK = new solanaWeb3.PublicKey('pprofELXjL5Kck7Jn5hCpwAL82DpTkSYBENzahVtbc9');
 	const cargoProgramPK = new solanaWeb3.PublicKey('Cargo8a1e6NkGyrjy4BQEW4ASGKs9KSyDyUrXMfpJoiH');
 	const profileFactionProgramPK = new solanaWeb3.PublicKey('pFACSRuobDmvfMKq1bAzwj27t6d2GJhSCHb1VcfnRmq');
-    */
+    
     const sageProgramPK = new solanaWeb3.PublicKey('SAGE2HAwep459SNq61LHvjxPk4pLPEJLoMETef7f7EE');
 	const profileProgramPK = new solanaWeb3.PublicKey('pprofELXjL5Kck7Jn5hCpwAL82DpTkSYBENzahVtbc9');
 	const cargoProgramPK = new solanaWeb3.PublicKey('Cargo2VNTPPTi9c1vq1Jw5d3BWUNr18MjRtSupAghKEk');
